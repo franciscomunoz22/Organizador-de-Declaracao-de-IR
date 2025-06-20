@@ -15,6 +15,12 @@ Recomendada para:
 - Pessoas que reúnem documentos ao longo do ano para facilitar a entrega
 - Profissionais de contabilidade que desejam organizar os dados dos clientes
 
+## 📷 Exemplo
+
+<img src="imagens/Tela de Títutlos.png" alt="Dashboard de Vendas em Excel" width="600"/>
+<img src="imagens/Tela de Informes.png" alt="Dashboard de Vendas em Excel" width="600"/>
+<img src="imagens/Tela de Notas.png" alt="Dashboard de Vendas em Excel" width="600"/>
+
 ## 🚀 Como Usar
 
 1. Baixe o arquivo Excel deste repositório.
